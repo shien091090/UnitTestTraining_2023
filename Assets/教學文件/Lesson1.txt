@@ -1,0 +1,21 @@
+- 講解SampleTest (共 11 min)
+1.介紹TestRunner (3 min)
+2.基本Assert Function (3 min)
+3.實作練習 (5 min)
+
+- TimerTextConverter實作練習 (共 24 min)
+1.定義規格 (2 min)
+2.實現程式邏輯 (2 min)
+3.設計&實作TestCase (5 min)
+4.實作練習 (15 min)
+
+- MoveComponent實作練習 (共 50 min)
+1.先用Monobehavior寫一次 (5 min)
+2.設計TestCase (5 min)
+3.嘗試測試原本Monobehavior的腳本 (10 min)
+4.改為Nsub&使用方式說明 (10 min)
+5.實作練習 (20 min)
+
+
+※ NSub使用方式可參考:
+https://hackmd.io/@jackchen/rkNRwuLmI
